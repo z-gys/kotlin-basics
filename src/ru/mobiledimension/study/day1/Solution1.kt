@@ -19,7 +19,6 @@ fun main() {
     val cmSmall = priceSmall / sSmall
     val cmMed = priceMed / sMed
     val cmBig = priceBig / sBig
-    cmBig = 100.0
 
     println("Small: $cmSmall")
     println("Med: $cmMed")
